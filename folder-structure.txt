@@ -1,0 +1,23 @@
+->Lead_portal
+  ->includes
+    /auth.php
+    /db.php
+    /footer.php
+    /header.php
+  ->public
+    ->Assets
+      ->css
+        /styl.css
+      ->js
+        scrip.js
+    /admin_user.php
+    /dashboard.php
+    /download_leads.php
+    /index.php
+    /lead_list.php
+    /lead_submit.php  
+    /logout.php
+    /search.php
+    /upload_csv.php
+/.htaccess
+/Home.php

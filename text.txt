@@ -1,0 +1,16 @@
+RewriteEngine On
+RewriteBase /Lead_portal/
+RewriteCond %{REQUEST_URI} ^/Lead_portal/public/Assets/ [NC]
+RewriteRule ^ - [L]
+RewriteCond %{REQUEST_URI} !^/Lead_portal/public/
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ public/$1 [L]
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^([^/]+)/?$ $1.php [L,QSA]
+DirectoryIndex public/index.php
+Options -Indexes
+<FilesMatch "(^\.|db\.php|auth\.php|config\.php)">
+  Require all denied
+</FilesMatch>

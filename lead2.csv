@@ -1,0 +1,11 @@
+contact_number,name,client,loan_officer,Address,State,City,total_loan,interest_rate,rate_type,Loan_type,house_type,property_usage,employement_status
+03004561234,John Smith,Mortgage,Officer A,123 Main Street,Punjab,Lahore,2500000,8.5,Fixed,Refinance,Single Family,Primary Residence,Full-time
+03007895612,Sara Khan,DAA,Officer B,45 Garden Avenue,Sindh,Karachi,3500000,7.9,Adjustable,Purchase,Condo,Investment,Self-employed
+03006784561,Ali Raza,D1A,Officer C,67 Canal Road,KPK,Peshawar,1800000,9.2,Fixed,Home Equity,Townhouse,Primary Residence,Part-time
+03003457891,Ayesha Malik,Mortgage,Officer D,89 Shahrah-e-Faisal,Sindh,Karachi,4200000,10.1,Adjustable,Refinance,Single Family,VACATION HOME,Full-time
+03007651238,David Jones,DAA,Officer E,22 Gulberg Road,Punjab,Lahore,2750000,8.3,Fixed,Purchase,Condo,Primary Residence,Full-time
+03009873456,Fatima Noor,D1A,Officer F,56 University Road,Balochistan,Quetta,3100000,7.5,Fixed,Refinance,Single Family,Investment,Self-employed
+03008974523,Michael Lee,Mortgage,Officer G,34 Liberty Market,ICT,Islamabad,6000000,9.7,Adjustable,Purchase,Townhouse,Primary Residence,Full-time
+03005551234,Komal Abbas,DAA,Officer H,76 Canal Bank,Punjab,Lahore,2300000,8.1,Fixed,Home Equity,Condo,Investment,Part-time
+03002227890,Rizwan Ali,D1A,Officer I,90 Clifton Block 5,Sindh,Karachi,3900000,9.0,Adjustable,Refinance,Single Family,Primary Residence,Full-time
+03007778888,Emily Davis,Mortgage,Officer J,12 I-8 Markaz,ICT,Islamabad,4800000,8.9,Fixed,Purchase,Condo,Primary Residence,Self-employed

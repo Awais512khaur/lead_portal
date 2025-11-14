@@ -1,0 +1,4 @@
+contact_number,first_name,last_name,phone,phone2,client,loan_officer,Address,Zip,State,City,Address2,zip2,State2,City2,total_loan,interest_rate,rate_type,Loan_type,house_type,property_usage,interest2,rate_type2,credit_card_dept,late_payment,cashout,foreclosure,Bankrupcy,employement_status
+1234567890,John,Doe,5551112222,5553334444,ClientA,Officer1,123 Main St,10001,NY,New York,456 Elm St,10002,NY,Brooklyn,250000,5.5,Fixed,Home Loan,Detached,Residential,6.0,Variable,1000,0,5000,0,0,Employed
+2345678901,Jane,Smith,5552223333,5554445555,ClientB,Officer2,789 Oak St,90001,CA,Los Angeles,101 Pine St,90002,CA,San Diego,150000,4.8,Fixed,Personal Loan,Condo,Residential,5.0,Fixed,2000,100,0,0,0,Self-Employed
+3456789012,Mark,Johnson,5553334444,5555556666,ClientC,Officer3,321 Maple Ave,60601,IL,Chicago,654 Cedar Ave,60602,IL,Evanston,300000,6.2,Variable,Mortgage,Townhouse,Residential,6.5,Variable,1500,50,10000,0,0,Employed

@@ -1,0 +1,9 @@
+.lead-div
+{
+  gap: 100px;
+    display: flex
+}
+.form-heading
+{
+    color: #145c7c;
+}
